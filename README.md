@@ -57,6 +57,7 @@ For further details, check out this [Help Center article](http://help.learn.co/t
 Once you have the HTML document open in your browser, you can make changes to
 it in the text editor, save the file, refresh the page in the browser, and see
 the changes instantly.
+changes
 
 ## Resources
 
